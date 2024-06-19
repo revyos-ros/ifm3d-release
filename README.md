@@ -1,3 +1,26 @@
+## ifm3d_core (jazzy) - 0.18.0-11
+
+The packages in the `ifm3d_core` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy ifm3d_core --override-release-repository-push-url git@github.com:revyos-ros/ifm3d-release` on `Wed, 19 Jun 2024 02:46:11 -0000`
+
+The `ifm3d_core` package was released.
+
+Version of package(s) in repository `ifm3d_core`:
+
+- upstream repository: https://github.com/ifm/ifm3d
+- release repository: https://github.com/revyos-ros/ifm3d-release.git
+- rosdistro version: `0.18.0-10`
+- old version: `0.18.0-10`
+- new version: `0.18.0-11`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## ifm3d_core (foxy) - 0.18.0-4
 
 The packages in the `ifm3d_core` repository were released into the `foxy` distro by running `/usr/bin/bloom-release -r foxy ifm3d_core` on `Tue, 02 Jun 2020 19:53:47 -0000`
